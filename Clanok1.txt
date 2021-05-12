@@ -2,9 +2,9 @@ Autor: Jožko Mrkvička
 Nazov: Zadanie na PJF
 Datum: 12.5. 2021
 ----
-
-
-
+Proin arcu dolor, condimentum ac auctor ac, sollicitudin a tortor.
+Suspendisse potenti.
+Ut feugiat massa vitae est sollicitudin, eget suscipit est auctor.
 ----
 
 
