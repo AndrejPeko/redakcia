@@ -2,9 +2,9 @@ Autor: Jožko Mrkvička
 Nazov: Zadanie na PJF
 Datum: 12.5. 2021
 ----
-
-
-
+Donec nec risus turpis.
+Nam rhoncus libero a turpis gravida pharetra.
+Ut interdum scelerisque pretium.
 ----
 
 
